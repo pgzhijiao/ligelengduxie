@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-21T07:40:14+00:00",
-  "revision": 7,
+  "updated_at": "2026-05-21T07:47:47+00:00",
+  "revision": 8,
   "check_policy": "target_channel_must_have_active_join_bot_admin",
   "description": "转发前对目标频道 getChatAdministrators；若任一管理员 user.username（忽略大小写、无@）在本列表 bot_username 中，才允许 copyMessage。",
   "active_bot_ids": [
