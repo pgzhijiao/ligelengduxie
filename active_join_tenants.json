@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-06-03T13:55:37+00:00",
-  "revision": 1179,
+  "updated_at": "2026-06-03T14:03:07+00:00",
+  "revision": 1180,
   "check_policy": "target_channel_must_have_active_join_bot_by_telegram_id",
   "description": "转发前 getChatAdministrators；若任一管理员的 user.id 等于 active_telegram_bot_ids（Bot Token 冒号前的数字），才允许 copyMessage。勿与 factory_bot_id（工厂库 bots.id）混淆。",
   "active_telegram_bot_ids": [
