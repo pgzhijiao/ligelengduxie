@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-23T14:05:28+00:00",
-  "revision": 6628,
+  "updated_at": "2026-07-23T14:27:40+00:00",
+  "revision": 6629,
   "sources": {
     "preview": {
       "role": "preview",
@@ -12,7 +12,7 @@
         "last_message_id": 6829
       },
       "last_topic_id": 2210776,
-      "last_send_at": "2026-07-23T14:05:28+00:00"
+      "last_send_at": "2026-07-23T14:27:40+00:00"
     },
     "full": {
       "role": "full",
@@ -23,7 +23,7 @@
         "last_message_id": 6831
       },
       "last_topic_id": 2210776,
-      "last_send_at": "2026-07-23T14:05:28+00:00"
+      "last_send_at": "2026-07-23T14:27:40+00:00"
     }
   }
 }
