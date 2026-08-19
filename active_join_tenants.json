@@ -9,7 +9,7 @@
   ],
   "check_policy": "target_channel_must_have_active_join_bot_by_telegram_id",
   "description": "转发前 getChatAdministrators；若任一管理员的 user.id 等于 active_telegram_bot_ids，才允许 copyMessage。",
-  "revision": 21571,
+  "revision": 21572,
   "schema_version": 2,
   "tenants": [
     {
@@ -27,5 +27,5 @@
       "telegram_bot_id": 8930847458
     }
   ],
-  "updated_at": "2026-08-19T23:51:57Z"
+  "updated_at": "2026-08-19T23:57:02Z"
 }
