@@ -1,10 +1,10 @@
 {
-  "revision": 9555,
+  "revision": 9556,
   "schema_version": 1,
   "sources": {
     "full": {
       "chat_id": "-1003931534870",
-      "last_send_at": "2026-09-28T06:22:25Z",
+      "last_send_at": "2026-09-28T20:23:55Z",
       "last_topic_id": 2273451,
       "link_chat_id": "3931534870",
       "range": {
@@ -15,7 +15,7 @@
     },
     "preview": {
       "chat_id": "-1003789533380",
-      "last_send_at": "2026-09-28T06:22:25Z",
+      "last_send_at": "2026-09-28T20:23:55Z",
       "last_topic_id": 2273451,
       "link_chat_id": "3789533380",
       "range": {
@@ -25,5 +25,5 @@
       "role": "preview"
     }
   },
-  "updated_at": "2026-09-28T06:22:25Z"
+  "updated_at": "2026-09-28T20:23:55Z"
 }
