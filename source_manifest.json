@@ -1,29 +1,29 @@
 {
-  "revision": 9694,
+  "revision": 9695,
   "schema_version": 1,
   "sources": {
     "full": {
       "chat_id": "-1003706827286",
-      "last_send_at": "2026-10-07T17:34:57Z",
-      "last_topic_id": 2264154,
+      "last_send_at": "2026-10-07T17:35:48Z",
+      "last_topic_id": 2263848,
       "link_chat_id": "3706827286",
       "range": {
         "first_message_id": 13,
-        "last_message_id": 33600
+        "last_message_id": 33601
       },
       "role": "full"
     },
     "preview": {
       "chat_id": "-1003920034409",
-      "last_send_at": "2026-10-07T17:34:57Z",
-      "last_topic_id": 2264154,
+      "last_send_at": "2026-10-07T17:35:48Z",
+      "last_topic_id": 2263848,
       "link_chat_id": "3920034409",
       "range": {
         "first_message_id": 54,
-        "last_message_id": 33617
+        "last_message_id": 33618
       },
       "role": "preview"
     }
   },
-  "updated_at": "2026-10-07T17:34:57Z"
+  "updated_at": "2026-10-07T17:35:48Z"
 }
